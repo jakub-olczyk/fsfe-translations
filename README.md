@@ -1,1 +1,4 @@
 # dfd-site-translation
+-- TODO
+Add [Creative Commons Attribution-ShareAlike 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)
+
