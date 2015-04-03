@@ -6,15 +6,15 @@
 
 Masowa inwigilacja łamie podstawowe prawa człowieka i jest poważnym zagrożeniem dla wolności słowa!
 
-Ale możemy się przed nią bronić.
+Na szczęście możemy się przed nią bronić.
 
 # Problem
 
-Hasło zabezpieczające twoją pocztę email nie jest wystarczające, aby ochronić ją przed technologiami masowej inwigilacji używanymi przez służby wywiadowcze.
+Hasło zabezpieczające twoją pocztę elektroniczną nie jest wystarczające, aby ochronić ją przed technologiami masowej inwigilacji używanymi przez służby wywiadowcze.
 
 Każdy email wysyłany przez Internet przechodzi przez wiele komputerów zanim trafi do odbiorcy. Służby wywiadowcze wykorzystują to, przechwytując miliony wiadomości każdego dnia.
 
-Nawet jeśli sądzisz, że ty sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych emaili.
+Nawet jeśli sądzisz, sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych emaili.
 
 # Szyfrowanie
 
@@ -48,7 +48,7 @@ Aby zacząć używać szyfrowania GnuPG, należy stworzyć unikalną parę "kluc
 
 # klucz publiczny - szyfruje
 
-Kiedy ktoś chciałby wysłać Ci zaszyfrowanego emaila, musi skorzystać z Twojego "klucza publicznego". A zatem im więcej osób zna twój klucz publiczny, tym lepiej.
+Kiedy ktoś chce wysłać Ci zaszyfrowanego emaila, musi skorzystać z Twojego "klucza publicznego". Zatem im więcej osób zna twój klucz publiczny, tym lepiej.
 
 Nie martw się: klucz publiczny może tylko szyfrować wiadomości do Ciebie, nie odszyfrowywać je.
 
@@ -80,17 +80,17 @@ fsfe.org/freesoftware
 
 # Porady praktyczne
 
-Technologia GnuPG stanowi najwyższej klasy zabezpieczenie, jednak niewiedza i nieostrożność użytkownika wciąż są groźne. Następujące wskazówki pomogą Ci zachować pełną kontrolę nad szyfrowanymi treściami:
+Technologia wykorzystana w GnuPG stanowi najwyższej klasy zabezpieczenie, jednak niewiedza i nieostrożność użytkownika wciąż są groźne. Następujące wskazówki pomogą Ci zachować pełną kontrolę nad szyfrowanymi treściami:
 
-Aby zaszyfrować lub odszyfrować emaila potrzebujesz swojego klucza prywatnego oraz **hasła**. DlugieFrazyNaprawdeSaLepszeNizSlowaCzyCiagiZnakow. Nikt nie powinien być w stanie odgadnąć Twojego hasła - nie zapisuj go też nigdzie i nie dziel się nim z nikim!
+Aby zaszyfrować lub odszyfrować emaila potrzebujesz swojego klucza prywatnego oraz **bezpiecznego hasła**. Hasło powinno być złożone **co najmniej** z 8 znaków i zawierać cyfry, znaki specjalne oraz wielkie i małe litery. Ponadto nikt nie powinien być w stanie odgadnąć Twojego hasła, znając Cię i twoje zainteresowania - nie zapisuj go też nigdzie(orly?) i nie dziel się nim z nikim!
 
 **Stwórz kopię zapasową swojego klucza prywatnego!** W przeciwnym wypadku, jeżeli stracisz swój dysk twardy - stracisz też wszystkie wiadomości i będziesz musiał stworzyć nową parę kluczy, a następnie poinformować o zmianie wszystkich znajomych...
 
 **Szyfruj tak dużo wiadomości, jak to możliwe!** W ten sposób stworzysz szum uniemożliwiający rozpoznanie, które informacje są naprawdę ważne. Im częściej szyfrujesz, tym mniej podejrzana będzie każda zaszyfrowana wiadomość.
 
-Pamiętaj, że **temat emaila nigdy nie jest zaszyfrowany!**
+Pamiętaj, że **temat emaila nigdy nie jest szyfrowany!**
 
-[This text is only used in languages that leave enough space to integrate it:] Mimo, że zawartość emaila jest zaszyfrowana, metadane: nadawca, odbiorca, data i rozmiar pliku - są całkowicie jawne.
+[This text is only used in languages that leave enough space to integrate it:] Mimo, że zawartość emaila jest zaszyfrowana, metadane: nadawca, odbiorca, data i rozmiar pliku - pozostają jawne.
 
 # Przewodnik
 
@@ -98,7 +98,7 @@ Pod tym adresem można znaleźć prosty przewodnik o zabezpieczaniu swoich email
 
 EmailSelfDefense.FSF.org
 
-Możesz też odwiedzić jedno z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do   korzystania z GnuPG. W imię hakerskiego ducha - za darmo. 
+Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do   korzystania z GnuPG. W imię hakerskiego ducha - za darmo. 
 
 Ta ulotka jest remiksem autorstwa FSFE bazującym na grafice autorstwa FSF i Journalism++ dostępnej pod: emailselfdefense.fsf.org
 
