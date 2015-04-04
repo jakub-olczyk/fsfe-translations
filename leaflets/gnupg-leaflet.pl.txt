@@ -20,7 +20,7 @@ Nawet jeśli sądzisz, że sam nie masz nic do ukrycia - pamiętaj: narażasz na
 
 Odzyskaj prywatność za pomocą GnuPG! GnuPG szyfruje twoje emaile jeszcze przed wysłaniem, więc tylko wybrani przez ciebie odbiorcy mają dostęp do ich zawartości.
 
-GnuPG jest niezależne od platformy. Oznacza to, że działa z każdym adresem email, na każdym komputerze lub smartfonie. GnuPG jest wolne, otwarte i bezpłatne.
+GnuPG jest niezależne od platformy. Oznacza to, że działa z każdym adresem email i na każdym komputerze lub smartfonie. GnuPG jest wolne, otwarte oraz bezpłatne.
 
 Tysiące ludzi już korzystają z GnuPG - zarówno do celów zawodowych, jak i prywatnych. Dołącz do nas! Każda osoba wzmacnia naszą społeczność i pokazuje, że jesteśmy w stanie sprzeciwić się inwigilacji.
 
@@ -62,7 +62,7 @@ Klucza prywatnego używamy do odszyfrowywania i czytania emaili, które nadawca 
 
 GnuPG jest **Wolnym Oprogramowaniem** używającym **Otwartych Standardów**, co pozwala mu naprawdę chronić przed inwigilacją. W przypadku zamkniętych formatów i własnościowego oprogramowania proces szyfrowania jest poza kontrolą użytkownika.
 
-Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "tylnych furtek". Jeżeli oprogramowanie nie ujawnia swojego sposobu działania, możemy mu co najwyżej ślepo zaufać.
+Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "tylnych furtek". Jeżeli oprogramowanie nie ujawnia sposobu swojego działania, możemy mu co najwyżej ślepo zaufać.
 
 Jednym z podstawowych założeń Wolnego Oprogramowania jest właśnie ujawnienie kodu źródłowego: Wolne Oprogramowanie umożliwia i zachęca wszystkich użytkowników do przeprowadzania niezależnych testów. To właśnie ta przejrzystość kodu pozwala na wykrywanie i usuwanie tylnych furtek. 
 
@@ -84,7 +84,7 @@ Technologia wykorzystana w GnuPG stanowi najwyższej klasy zabezpieczenie, jedna
 
 Aby odszyfrować wiadomość potrzebujesz swojego klucza prywatnego oraz **bezpiecznego hasła**. Hasło powinno być złożone co najmniej z 8 znaków i zawierać cyfry, znaki specjalne oraz wielkie i małe litery. Ponadto, nikt nie powinien być w stanie odgadnąć Twojego hasła, nawet znając Ciebie i Twoje zainteresowania.
 
-**Stwórz kopię zapasową swojego klucza prywatnego!** Dzięki temu w przypadku awarii dysku twardego nie będziesz musiał tworzyć nowego i nie stracisz dostępu do danych.
+**Stwórz kopię zapasową swojego klucza prywatnego!** Dzięki temu w przypadku awarii dysku twardego nie będziesz musiał tworzyć nowego i nie stracisz dostępu do danych zaszyfrowanych utraconym kluczem.
 
 **Szyfruj tak dużo wiadomości, jak to możliwe!** W ten sposób stworzysz szum uniemożliwiający rozpoznanie, które informacje są naprawdę ważne. Im częściej szyfrujesz, tym mniej podejrzana będzie każda zaszyfrowana wiadomość.
 
@@ -98,7 +98,7 @@ Pod tym adresem można znaleźć prosty przewodnik o zabezpieczaniu swoich email
 
 EmailSelfDefense.FSF.org
 
-Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do korzystania z GnuPG i innych narzędzi szyfrujących za darmo. 
+Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz bezpłatnie dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do korzystania z GnuPG i innych narzędzi szyfrujących. 
 
 Ta ulotka jest remiksem autorstwa FSFE bazującym na grafice wykonenej przez FSF i Journalism++ dostępnej pod: emailselfdefense.fsf.org
 
