@@ -62,7 +62,7 @@ Klucza prywatnego używamy do odszyfrowywania i czytania emaili, które nadawca 
 
 GnuPG jest **Wolnym Oprogramowaniem** używającym **Otwartych Standardów**, co pozwala mu naprawdę chronić przed inwigilacją. W przypadku zamkniętych formatów i oprogramowania mogą dziać się rzeczy poza wiedzą i kontrolą użytkownika.
 
-Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "backdoorów"("tylnych furtek"). Jeżeli oprogramowanie nie pozwala na podejrzenie jak działa - możemy co najwyżej ślepo mu zaufać.
+Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "tylnych furtek". Jeżeli oprogramowanie nie pozwala na podejrzenie jak działa - możemy co najwyżej ślepo mu zaufać.
 
 Podstawowym założeniem Wolnego Oprogramowania jest właśnie ujawnienie kodu źródłowego: Wolne Oprogramowanie umożliwia i zachęca wszystkich użytkowników do przeprowadzania niezależnych testów. To właśnie ta przejrzystość kodu pozwala na wykrywanie i usuwanie backdoorów. 
 
