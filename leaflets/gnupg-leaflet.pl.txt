@@ -6,7 +6,7 @@
 
 Masowa inwigilacja łamie podstawowe prawa człowieka i jest poważnym zagrożeniem dla wolności słowa!
 
-Na szczęście możemy się przed nią bronić.
+Na szczęście, możemy się przed nią bronić.
 
 # Problem
 
@@ -14,7 +14,7 @@ Hasło zabezpieczające twoją pocztę elektroniczną nie jest wystarczające, a
 
 Każdy email wysyłany przez Internet przechodzi przez wiele komputerów zanim trafi do odbiorcy. Służby wywiadowcze wykorzystują to, przechwytując miliony wiadomości każdego dnia.
 
-Nawet jeśli sądzisz, sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych emaili.
+Nawet jeśli sądzisz, że sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych emaili.
 
 # Szyfrowanie
 
@@ -62,7 +62,7 @@ Klucza prywatnego używamy do odszyfrowywania i czytania emaili, które nadawca 
 
 GnuPG jest **Wolnym Oprogramowaniem** używającym **Otwartych Standardów**, co pozwala mu naprawdę chronić przed inwigilacją. W przypadku zamkniętych formatów i oprogramowania mogą dziać się rzeczy poza wiedzą i kontrolą użytkownika.
 
-Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "backdoorów". Jeżeli oprogramowanie nie pozwala na podejrzenie jak działa - możemy co najwyżej ślepo mu zaufać.
+Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "backdoorów"("tylnych furtek"). Jeżeli oprogramowanie nie pozwala na podejrzenie jak działa - możemy co najwyżej ślepo mu zaufać.
 
 Podstawowym założeniem Wolnego Oprogramowania jest właśnie ujawnienie kodu źródłowego: Wolne Oprogramowanie umożliwia i zachęca wszystkich użytkowników do przeprowadzania niezależnych testów. To właśnie ta przejrzystość kodu pozwala na wykrywanie i usuwanie backdoorów. 
 
@@ -98,7 +98,7 @@ Pod tym adresem można znaleźć prosty przewodnik o zabezpieczaniu swoich email
 
 EmailSelfDefense.FSF.org
 
-Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do   korzystania z GnuPG. W imię hakerskiego ducha - za darmo. 
+Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do korzystania z GnuPG. W imię hakerskiego ducha - za darmo. 
 
 Ta ulotka jest remiksem autorstwa FSFE bazującym na grafice autorstwa FSF i Journalism++ dostępnej pod: emailselfdefense.fsf.org
 
