@@ -10,32 +10,32 @@ Na szczęście, możemy się przed nią bronić.
 
 # Problem
 
-Hasło zabezpieczające twoją pocztę elektroniczną nie jest wystarczające, aby ochronić ją przed technologiami masowej inwigilacji używanymi przez służby wywiadowcze.
+Hasło zabezpieczające Twoją pocztę elektroniczną nie jest wystarczające, aby ochronić ją przed technologiami masowej inwigilacji używanymi przez służby wywiadowcze.
 
-Każdy email wysyłany przez Internet przechodzi przez wiele komputerów zanim trafi do odbiorcy. Służby wywiadowcze wykorzystują to, przechwytując miliony wiadomości każdego dnia.
+Każdy e-mail wysyłany przez Internet przechodzi przez wiele komputerów zanim trafi do odbiorcy. Służby wywiadowcze wykorzystują to, przechwytując miliony wiadomości każdego dnia.
 
-Nawet jeśli sądzisz, że sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych emaili.
+Nawet jeśli sądzisz, że sam nie masz nic do ukrycia - pamiętaj: narażasz na niebezpieczeństwo wszystkich ludzi, z którymi komunikujesz się za pomocą niezaszyfrowanych e-maili.
 
 # Szyfrowanie
 
-Odzyskaj prywatność za pomocą GnuPG! GnuPG szyfruje twoje emaile jeszcze przed wysłaniem, więc tylko wybrani przez ciebie odbiorcy mają dostęp do ich zawartości.
+Odzyskaj prywatność za pomocą GnuPG! GnuPG szyfruje Twoje e-maile jeszcze przed wysłaniem, więc tylko wybrani przez ciebie odbiorcy mają dostęp do ich zawartości.
 
-GnuPG jest niezależne od platformy. Oznacza to, że działa z każdym adresem email i na każdym komputerze lub smartfonie. GnuPG jest wolne, otwarte oraz bezpłatne.
+GnuPG jest niezależne od platformy. Oznacza to, że działa z każdym adresem e-mail i na każdym komputerze lub smartfonie. GnuPG jest wolne, otwarte oraz bezpłatne.
 
-Tysiące ludzi już korzystają z GnuPG - zarówno do celów zawodowych, jak i prywatnych. Dołącz do nas! Każda osoba wzmacnia naszą społeczność i pokazuje, że jesteśmy w stanie sprzeciwić się inwigilacji.
+Tysiące ludzi już korzystają z GnuPG - zarówno do celów zawodowych jak i prywatnych. Dołącz do nas! Każda osoba wzmacnia naszą społeczność i pokazuje, że jesteśmy w stanie sprzeciwić się inwigilacji.
 
 # Rozwiązanie
 
-Jeżeli email zaszyfrowany z użyciem GnuPG zostanie przechwycony lub wpadnie w niepowołane ręce, będzie wyglądał jak bezsensowny ciąg znaków. Nie może zostać odczytany bez odpowiedniego klucza prywatnego. Dla odbiorcy jednak, i tylko dla niego, jest to najzwyklejsza wiadomość, którą może odczytać jak każdą inną.
+E-mail zaszyfrowany z użyciem GnuPG wygląda jak niezrozumiały ciąg znaków, gdy zostanie przechwycony lub wpadnie w niepowołane ręce. Nie może zostać odczytany bez odpowiedniego klucza prywatnego. Dla odbiorcy jednak, i tylko dla niego, jest to najzwyklejsza wiadomość, którą może odczytać jak każdą inną.
 
-W ten sposób zarówno nadawca, jak i odbiorca są znacznie bezpieczniejsi. Nawet jeśli twoje emaile nie zawierają poufnych informacji, to konsekwentne używanie szyfrowania chroni nas wszystkich przed nieuprawnioną inwigilacją.
+W ten sposób zarówno nadawca, jak i odbiorca są znacznie bezpieczniejsi. Nawet jeśli Twoje e-maile nie zawierają poufnych informacji, to konsekwentne używanie szyfrowania chroni nas wszystkich przed nieuprawnioną inwigilacją.
 
 # Prywatna poczta elektroniczna
 
 # Odzyskaj swoją prywatność! Używaj GnuPG!
 
 - Wolne Oprogramowanie
-- dla wszystkich adresów email
+- dla wszystkich adresów e-mail
 - na GNU/Linuksa, Windowsa, Maca, Androida, ...
 - nie wymaga posiadania konta ani rejestracji w żadnym serwisie
 - całkowicie bezpłatne
@@ -44,35 +44,35 @@ W ten sposób zarówno nadawca, jak i odbiorca są znacznie bezpieczniejsi. Nawe
 
 # Jak działa GnuPG
 
-Aby zacząć używać szyfrowania GnuPG, należy stworzyć unikalną parę "kluczy" - publiczny i prywatny
+Aby zacząć używać szyfrowania GnuPG, należy stworzyć unikalną parę „kluczy” - publiczny i prywatny
 
 # klucz publiczny - szyfruje
 
-Kiedy ktoś chce wysłać Ci zaszyfrowanego emaila, musi skorzystać z Twojego "klucza publicznego". Zatem im więcej osób zna twój klucz publiczny, tym lepiej.
+Kiedy ktoś chce wysłać Ci zaszyfrowanego e-maila, musi skorzystać z Twojego „klucza publicznego”. Zatem im więcej osób zna twój klucz publiczny, tym lepiej.
 
-Nie martw się: klucz publiczny może tylko szyfrować wiadomości do Ciebie, nie odszyfrowywać je.
+Nie martw się: klucz publiczny może jedynie szyfrować wiadomości do Ciebie, nie odszyfrowywać je.
 
 # klucz prywatny - odszyfrowuje
 
-Twój "klucz prywatny" jest jak klucz do frontowych drzwi twojego domu; należy przechowywać go w bezpiecznym miejscu - jedynie na swoim komputerze. Pamiętaj, że powinieneś być jedyną osobą, która ma do niego dostęp! 
+Twój „klucz prywatny” jest jak klucz do frontowych drzwi Twojego domu; należy przechowywać go w bezpiecznym miejscu - jedynie na swoim komputerze. Pamiętaj, że powinieneś być jedyną osobą, która ma do niego dostęp!
 
-Klucza prywatnego używamy do odszyfrowywania i czytania emaili, które nadawca zaszyfrował Twoim kluczem publicznym.
+Klucza prywatnego używamy do odszyfrowywania i czytania e-maili, które nadawca zaszyfrował Twoim kluczem publicznym.
 
-# Co sprawia, że GnuPG jest bezpieczne? 
+# Co sprawia, że GnuPG jest bezpieczne?
 
 GnuPG jest **Wolnym Oprogramowaniem** używającym **Otwartych Standardów**, co pozwala mu naprawdę chronić przed inwigilacją. W przypadku zamkniętych formatów i własnościowego oprogramowania proces szyfrowania jest poza kontrolą użytkownika.
 
-Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. "tylnych furtek". Jeżeli oprogramowanie nie ujawnia sposobu swojego działania, możemy mu co najwyżej ślepo zaufać.
+Jeżeli nikt nie jest w stanie obejrzeć kodu programu, nie ma żadnej pewności, czy nie zawiera on oprogramowania szpiegowskiego - tzw. „tylnych furtek”. Jeżeli oprogramowanie nie ujawnia sposobu swojego działania, możemy mu co najwyżej ślepo zaufać.
 
-Jednym z podstawowych założeń Wolnego Oprogramowania jest właśnie ujawnienie kodu źródłowego: Wolne Oprogramowanie umożliwia i zachęca wszystkich użytkowników do przeprowadzania niezależnych testów. To właśnie ta przejrzystość kodu pozwala na wykrywanie i usuwanie tylnych furtek. 
+Jednym z podstawowych założeń Wolnego Oprogramowania jest właśnie ujawnienie kodu źródłowego: Wolne Oprogramowanie umożliwia i zachęca wszystkich użytkowników do przeprowadzania niezależnych testów. To właśnie ta przejrzystość kodu pozwala na wykrywanie i usuwanie tylnych furtek.
 
-Większość Wolnego Oprogramowania pozostaje pod opieką społeczności dbającej o bezpieczeństwo wszystkich użytkowników. Jeżeli chcesz uchronić się przed inwigilacją - Wolne Oprogramowanie pozostaje jedyną opcją.
+Większość Wolnego Oprogramowania pozostaje pod opieką społeczności dbającej o bezpieczeństwo wszystkich użytkowników. Jeżeli chcesz uchronić się przed inwigilacją, Wolne Oprogramowanie pozostaje jedyną opcją.
 
 # Czym jest Wolne Oprogramowanie
 
-Wolne Oprogramowanie może być użyte przez każdego, w dowolnym celu, włączając w to kopiowanie, czytanie kodu źródłowego, możliwość jego ulepszenia bądź dostosowania do własnych potrzeb (tzw. "cztery wolności").
+Wolne Oprogramowanie może być użyte przez każdego, w dowolnym celu, włączając w to kopiowanie, czytanie kodu źródłowego, możliwość jego ulepszenia bądź dostosowania do własnych potrzeb (tzw. „cztery wolności”).
 
-Nawet, jeżeli chcesz "po prostu używać" programu, wciąż odnosisz korzyści z tych wolności. Dają Ci one gwarancję, że Wolne Oprogramowanie pozostaje pod opieką społeczności i jego dalszy rozwój nie zależy od interesów prywatnych firm czy rządów.
+Nawet, jeżeli chcesz „po prostu używać” programu, wciąż odnosisz korzyści z tych wolności. Dają Ci one gwarancję, że Wolne Oprogramowanie pozostaje pod opieką społeczności i jego dalszy rozwój nie zależy od interesów prywatnych firm czy rządów.
 
 Aby dowiedzieć się więcej na temat Wolnego Oprogramowania i Wolnego Społeczeństwa:
 
@@ -90,15 +90,15 @@ Aby odszyfrować wiadomość potrzebujesz swojego klucza prywatnego oraz **bezpi
 
 Pamiętaj, że **temat wiadomości nie jest szyfrowany!**
 
-[This text is only used in languages that leave enough space to integrate it:] Mimo, że zawartość emaila jest zaszyfrowana, to metadane: nadawca, odbiorca, data i rozmiar pliku - pozostają jawne.
+[This text is only used in languages that leave enough space to integrate it:] Mimo, że zawartość e-maila jest zaszyfrowana, to metadane - nadawca, odbiorca, data i rozmiar pliku - pozostają jawne.
 
 # Przewodnik
 
-Pod tym adresem można znaleźć prosty przewodnik o zabezpieczaniu swoich emaili za pomocą GnuPG:
+Pod tym adresem można znaleźć prosty przewodnik o zabezpieczaniu swoich e-maili za pomocą GnuPG:
 
 EmailSelfDefense.FSF.org
 
-Możesz też wziąć udział w jednym z tzw. **"CryptoParty"** w swojej okolicy - są to spotkania, na których możesz bezpłatnie dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do korzystania z GnuPG i innych narzędzi szyfrujących. 
+Możesz też wziąć udział w jednym z tzw. **„CryptoParty”** w swojej okolicy. Są to spotkania, na których możesz bezpłatnie dowiedzieć się więcej na temat szyfrowania i znaleźć pomoc w odpowiedniej konfiguracji swojego komputera do korzystania z GnuPG i innych narzędzi szyfrujących.
 
 Ta ulotka jest remiksem autorstwa FSFE bazującym na grafice wykonenej przez FSF i Journalism++ dostępnej pod: emailselfdefense.fsf.org
 
@@ -116,7 +116,7 @@ fsfe.org/contribute
 
 # Zostań członkiem!
 
-Dotacje są niezwykle istotne, abyśmy mogli kontynuować pracę i utrzymać niezależność. Możesz wesprzeć naszą pracę, stając się stałym członkiem FSFE, "Zrzeszonym". 
+Dotacje są niezwykle istotne, abyśmy mogli kontynuować pracę i utrzymać niezależność. Możesz wesprzeć naszą pracę, stając się stałym członkiem FSFE, „Zrzeszonym”.
 Regularnie opłacając składkę członkowską bezpośrednio pomagasz w promocji i edukacji o Wolnym Oprogramowaniu w Europie.
 
 fsfe.org/join
@@ -130,8 +130,3 @@ Schönhauser Allee 6/7
 10119 Berlin
 Germany
 https://fsfe.org
-
-
-
-
-
