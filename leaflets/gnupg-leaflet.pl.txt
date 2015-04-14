@@ -82,7 +82,7 @@ fsfe.org/freesoftware
 
 Technologia wykorzystana w GnuPG stanowi najwyższej klasy zabezpieczenie, jednak niewiedza i nieostrożność użytkownika wciąż są groźne. Następujące wskazówki pomogą Ci zachować pełną kontrolę nad szyfrowanymi treściami:
 
-Aby odszyfrować wiadomość potrzebujesz swojego klucza prywatnego oraz **bezpiecznego hasła**. Hasło powinno być złożone co najmniej z 8 znaków i zawierać cyfry, znaki specjalne oraz wielkie i małe litery. Ponadto, nikt nie powinien być w stanie odgadnąć Twojego hasła, nawet znając Ciebie i Twoje zainteresowania.
+Aby odszyfrować wiadomość potrzebujesz swojego klucza prywatnego oraz **bezpiecznego hasła**. Bezpieczne hasło powinno być złożone co najmniej z 8 znaków i zawierać cyfry, znaki specjalne oraz wielkie i małe litery. Ponadto, nikt nie powinien być w stanie odgadnąć Twojego hasła, nawet znając Ciebie i Twoje zainteresowania.
 
 **Stwórz kopię zapasową swojego klucza prywatnego!** Dzięki temu w przypadku awarii dysku twardego nie będziesz musiał tworzyć nowego i nie stracisz dostępu do danych zaszyfrowanych utraconym kluczem.
 
